@@ -1,5 +1,6 @@
 # year-counter
 
+![alt text](example.png)
 ## Project setup
 ```
 npm install
